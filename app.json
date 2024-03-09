@@ -1,7 +1,7 @@
 
 {
 
-    "name": "TIGER",
+    "name": "bhuriya12",
 
     "description": "A Modular telegram bot.",
 
@@ -32,21 +32,21 @@
         "BOT_TOKEN": {
 
             "description": "Your Bot token from @Botfather",
-            "value": "6975682316:AAH4eYOJzfbetgwqYXi4Zf5SAA1KDu5z9Og"
+            "value": "7020447028:AAENzqNmLaiKvUX0rYLvYX0KKMQVPTJXA6U"
 
         },
 
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "20463500"
+            "value": "26451206"
 
         },
 
         "API_HASH": {
 
             "description": "Your API_HASH from https://my.telegram.org/apps",
-            "value": "5db9bc6439f7b43daa75689edf65b431"
+            "value": "32984406271d6f3945bb536671b143a7"
 
         }
 
