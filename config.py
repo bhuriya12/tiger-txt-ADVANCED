@@ -13,7 +13,7 @@ OWNER = int(os.environ.get("OWNER", 6830450483))
 LOG = -1004131614995
 
 try:
-    ADMINS=[]
+    ADMINS=[6830450483]
     for x in (os.environ.get("ADMINS", "6333211826").split()):
         ADMINS.append(int(x))
 except ValueError:
